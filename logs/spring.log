@@ -1,0 +1,230 @@
+2022-04-20-20:57:42 - Starting SprintBarber1Application using Java 17.0.2 on inlen8520015072 with PID 15876 (C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1\target\classes started by relabba in C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1)
+2022-04-20-20:57:42 - No active profile set, falling back to default profiles: default
+2022-04-20-20:57:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-20:57:42 - Finished Spring Data repository scanning in 25 ms. Found 8 JPA repository interfaces.
+2022-04-20-20:57:42 - Tomcat initialized with port(s): 8006 (http)
+2022-04-20-20:57:42 - Starting service [Tomcat]
+2022-04-20-20:57:42 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-04-20-20:57:42 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-04-20-20:57:42 - Initializing Spring embedded WebApplicationContext
+2022-04-20-20:57:42 - Root WebApplicationContext: initialization completed in 354 ms
+2022-04-20-20:57:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-20:57:42 - HikariPool-2 - Starting...
+2022-04-20-20:57:43 - HikariPool-2 - Start completed.
+2022-04-20-20:57:43 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-20:57:43 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-20:57:43 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-20:57:43 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-20:57:43 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-20:57:43 - LiveReload server is running on port 35729
+2022-04-20-20:57:43 - Will secure Ant [pattern='/admin/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1477ead8, org.springframework.security.web.context.SecurityContextPersistenceFilter@504670b4, org.springframework.security.web.header.HeaderWriterFilter@6d4525aa, org.springframework.security.web.authentication.logout.LogoutFilter@18184b00, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@353a0425, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2aa0f611, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6e0cfe9a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10d51fa6, org.springframework.security.web.session.SessionManagementFilter@6e4f6ddd, org.springframework.security.web.access.ExceptionTranslationFilter@31d968ad, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2e82801e]
+2022-04-20-20:57:43 - Will secure Ant [pattern='/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7430ef96, org.springframework.security.web.context.SecurityContextPersistenceFilter@14a7cb6b, org.springframework.security.web.header.HeaderWriterFilter@623e3197, org.springframework.security.web.authentication.logout.LogoutFilter@11ac1ecc, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@8fe0375, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@51041dbd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@42252c83, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@240832bc, org.springframework.security.web.session.SessionManagementFilter@700124e8, org.springframework.security.web.access.ExceptionTranslationFilter@4871a2e0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@b01d344]
+2022-04-20-20:57:43 - Tomcat started on port(s): 8006 (http) with context path ''
+2022-04-20-20:57:43 - Context refreshed
+2022-04-20-20:57:43 - Found 1 custom documentation plugin(s)
+2022-04-20-20:57:43 - Scanning for api listing references
+2022-04-20-20:57:43 - Started SprintBarber1Application in 1.349 seconds (JVM running for 283.156)
+2022-04-20-20:57:43 - Condition evaluation unchanged
+2022-04-20-20:57:55 - Starting SprintBarber1Application using Java 17.0.2 on inlen8520015072 with PID 20260 (C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1\target\classes started by relabba in C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1)
+2022-04-20-20:57:55 - No active profile set, falling back to default profiles: default
+2022-04-20-20:57:55 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20-20:57:55 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20-20:57:55 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-20:57:55 - Finished Spring Data repository scanning in 57 ms. Found 8 JPA repository interfaces.
+2022-04-20-20:57:56 - Tomcat initialized with port(s): 8006 (http)
+2022-04-20-20:57:56 - Starting service [Tomcat]
+2022-04-20-20:57:56 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-04-20-20:57:56 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-04-20-20:57:56 - Initializing Spring embedded WebApplicationContext
+2022-04-20-20:57:56 - Root WebApplicationContext: initialization completed in 1368 ms
+2022-04-20-20:57:56 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-20:57:56 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-04-20-20:57:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20-20:57:56 - HikariPool-1 - Starting...
+2022-04-20-20:57:57 - HikariPool-1 - Start completed.
+2022-04-20-20:57:57 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-20:57:57 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-20:57:57 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-20:57:57 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-20:57:58 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-20:57:58 - Unable to start LiveReload server
+2022-04-20-20:57:58 - Will secure Ant [pattern='/admin/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@268875d1, org.springframework.security.web.context.SecurityContextPersistenceFilter@11fbbbf4, org.springframework.security.web.header.HeaderWriterFilter@26387e92, org.springframework.security.web.authentication.logout.LogoutFilter@37f4ffc2, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@d299bcd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@b9d2fcc, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@13915344, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@45539661, org.springframework.security.web.session.SessionManagementFilter@66c4f8e2, org.springframework.security.web.access.ExceptionTranslationFilter@3e62e35, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@d300730]
+2022-04-20-20:57:58 - Will secure Ant [pattern='/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@455b6f45, org.springframework.security.web.context.SecurityContextPersistenceFilter@419288e0, org.springframework.security.web.header.HeaderWriterFilter@7b65e598, org.springframework.security.web.authentication.logout.LogoutFilter@16646e37, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7e529aaf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1a7a9f1f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4e67f0ed, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5d3e1fa7, org.springframework.security.web.session.SessionManagementFilter@6c6c3c4e, org.springframework.security.web.access.ExceptionTranslationFilter@7e94b4f1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@155d249a]
+2022-04-20-20:57:58 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8006 is already in use
+2022-04-20-20:57:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-20:57:58 - HikariPool-1 - Shutdown initiated...
+2022-04-20-20:57:58 - HikariPool-1 - Shutdown completed.
+2022-04-20-20:57:58 - Stopping service [Tomcat]
+2022-04-20-20:57:58 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-20-20:57:58 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8006 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8006 or configure this application to listen on another port.
+
+2022-04-20-20:58:10 - Application shutdown requested.
+2022-04-20-20:58:10 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-20:58:10 - HikariPool-2 - Shutdown initiated...
+2022-04-20-20:58:10 - HikariPool-2 - Shutdown completed.
+2022-04-20-20:58:16 - Starting SprintBarber1Application using Java 17.0.2 on inlen8520015072 with PID 20152 (C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1\target\classes started by relabba in C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1)
+2022-04-20-20:58:16 - No active profile set, falling back to default profiles: default
+2022-04-20-20:58:16 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20-20:58:16 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20-20:58:17 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-20:58:17 - Finished Spring Data repository scanning in 66 ms. Found 8 JPA repository interfaces.
+2022-04-20-20:58:17 - Tomcat initialized with port(s): 8006 (http)
+2022-04-20-20:58:17 - Starting service [Tomcat]
+2022-04-20-20:58:17 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-04-20-20:58:18 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-04-20-20:58:18 - Initializing Spring embedded WebApplicationContext
+2022-04-20-20:58:18 - Root WebApplicationContext: initialization completed in 1369 ms
+2022-04-20-20:58:18 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-20:58:18 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-04-20-20:58:18 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20-20:58:18 - HikariPool-1 - Starting...
+2022-04-20-20:58:18 - HikariPool-1 - Start completed.
+2022-04-20-20:58:18 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-20:58:19 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-20:58:19 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-20:58:19 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-20:58:20 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-20:58:20 - LiveReload server is running on port 35729
+2022-04-20-20:58:20 - Will secure Ant [pattern='/admin/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7d3b9142, org.springframework.security.web.context.SecurityContextPersistenceFilter@43b1aef, org.springframework.security.web.header.HeaderWriterFilter@24ee16e8, org.springframework.security.web.authentication.logout.LogoutFilter@5a401d78, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@792c6b48, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7f5791db, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@14c1a435, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@633327c3, org.springframework.security.web.session.SessionManagementFilter@39d1229e, org.springframework.security.web.access.ExceptionTranslationFilter@4e9ba6a1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6b3d733]
+2022-04-20-20:58:20 - Will secure Ant [pattern='/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4ffaab9, org.springframework.security.web.context.SecurityContextPersistenceFilter@2a3c3c16, org.springframework.security.web.header.HeaderWriterFilter@55ef9c43, org.springframework.security.web.authentication.logout.LogoutFilter@77899bb2, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@240de667, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@50d0e2da, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@79747107, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2f6b8f8d, org.springframework.security.web.session.SessionManagementFilter@7e07651f, org.springframework.security.web.access.ExceptionTranslationFilter@3df8edd6, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3735868]
+2022-04-20-20:58:20 - Tomcat started on port(s): 8006 (http) with context path ''
+2022-04-20-20:58:20 - Context refreshed
+2022-04-20-20:58:20 - Found 1 custom documentation plugin(s)
+2022-04-20-20:58:20 - Scanning for api listing references
+2022-04-20-20:58:20 - Started SprintBarber1Application in 4.493 seconds (JVM running for 5.165)
+2022-04-20-20:58:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-20-20:58:53 - Initializing Servlet 'dispatcherServlet'
+2022-04-20-20:58:53 - Completed initialization in 1 ms
+2022-04-20-20:58:53 - Barber object created
+2022-04-20-21:07:07 - Viewed All the services of Barber
+2022-04-20-21:07:27 - Barbers are fetched
+2022-04-20-21:09:58 - The customer booked Successfully
+2022-04-20-21:21:09 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-21:21:09 - HikariPool-1 - Shutdown initiated...
+2022-04-20-21:21:09 - HikariPool-1 - Shutdown completed.
+2022-04-20-21:21:10 - Starting SprintBarber1Application using Java 17.0.2 on inlen8520015072 with PID 20152 (C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1\target\classes started by relabba in C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1)
+2022-04-20-21:21:10 - No active profile set, falling back to default profiles: default
+2022-04-20-21:21:10 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-21:21:10 - Finished Spring Data repository scanning in 23 ms. Found 8 JPA repository interfaces.
+2022-04-20-21:21:10 - Tomcat initialized with port(s): 8006 (http)
+2022-04-20-21:21:10 - Starting service [Tomcat]
+2022-04-20-21:21:10 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-04-20-21:21:10 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-04-20-21:21:10 - Initializing Spring embedded WebApplicationContext
+2022-04-20-21:21:10 - Root WebApplicationContext: initialization completed in 376 ms
+2022-04-20-21:21:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-21:21:10 - HikariPool-2 - Starting...
+2022-04-20-21:21:10 - HikariPool-2 - Start completed.
+2022-04-20-21:21:10 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-21:21:10 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-21:21:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-21:21:10 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-21:21:11 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-21:21:11 - LiveReload server is running on port 35729
+2022-04-20-21:21:11 - Will secure Ant [pattern='/admin/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@44d682d7, org.springframework.security.web.context.SecurityContextPersistenceFilter@4d8f0f2e, org.springframework.security.web.header.HeaderWriterFilter@4e784775, org.springframework.security.web.authentication.logout.LogoutFilter@12c8f9ea, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6d166bfd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@11d8dcf5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1d176254, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@65efdab2, org.springframework.security.web.session.SessionManagementFilter@6bf0dd31, org.springframework.security.web.access.ExceptionTranslationFilter@68c699ab, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3c9467e9]
+2022-04-20-21:21:11 - Will secure Ant [pattern='/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@54c4bd1d, org.springframework.security.web.context.SecurityContextPersistenceFilter@56564e31, org.springframework.security.web.header.HeaderWriterFilter@1804c8eb, org.springframework.security.web.authentication.logout.LogoutFilter@93db24c, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@1b29ca97, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6745f245, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@59b82dd6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1b573981, org.springframework.security.web.session.SessionManagementFilter@3fe1627f, org.springframework.security.web.access.ExceptionTranslationFilter@2f03c42a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@38f99dc9]
+2022-04-20-21:21:11 - Tomcat started on port(s): 8006 (http) with context path ''
+2022-04-20-21:21:11 - Context refreshed
+2022-04-20-21:21:11 - Found 1 custom documentation plugin(s)
+2022-04-20-21:21:11 - Scanning for api listing references
+2022-04-20-21:21:11 - Started SprintBarber1Application in 1.465 seconds (JVM running for 1375.87)
+2022-04-20-21:21:11 - Condition evaluation unchanged
+2022-04-20-21:21:24 - Starting SprintBarber1Application using Java 17.0.2 on inlen8520015072 with PID 20360 (C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1\target\classes started by relabba in C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1)
+2022-04-20-21:21:24 - No active profile set, falling back to default profiles: default
+2022-04-20-21:21:24 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20-21:21:24 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20-21:21:25 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-21:21:25 - Finished Spring Data repository scanning in 56 ms. Found 8 JPA repository interfaces.
+2022-04-20-21:21:25 - Tomcat initialized with port(s): 8006 (http)
+2022-04-20-21:21:25 - Starting service [Tomcat]
+2022-04-20-21:21:25 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-04-20-21:21:25 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-04-20-21:21:25 - Initializing Spring embedded WebApplicationContext
+2022-04-20-21:21:25 - Root WebApplicationContext: initialization completed in 1375 ms
+2022-04-20-21:21:25 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-21:21:25 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-04-20-21:21:25 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20-21:21:26 - HikariPool-1 - Starting...
+2022-04-20-21:21:26 - HikariPool-1 - Start completed.
+2022-04-20-21:21:26 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-21:21:26 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-21:21:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-21:21:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-21:21:27 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-21:21:27 - Unable to start LiveReload server
+2022-04-20-21:21:27 - Will secure Ant [pattern='/admin/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6811d83f, org.springframework.security.web.context.SecurityContextPersistenceFilter@634dc0ea, org.springframework.security.web.header.HeaderWriterFilter@35c145b0, org.springframework.security.web.authentication.logout.LogoutFilter@539b5973, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2fbc784a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1c1a1e94, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3f5c3e1d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@78afb, org.springframework.security.web.session.SessionManagementFilter@15e20d44, org.springframework.security.web.access.ExceptionTranslationFilter@4215a317, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@554fabd4]
+2022-04-20-21:21:27 - Will secure Ant [pattern='/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@395fa92c, org.springframework.security.web.context.SecurityContextPersistenceFilter@e13324c, org.springframework.security.web.header.HeaderWriterFilter@ec89c0c, org.springframework.security.web.authentication.logout.LogoutFilter@2c2b6fcd, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3b3ee8c2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3a43f0cf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@70a13377, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@51b87b30, org.springframework.security.web.session.SessionManagementFilter@10db6186, org.springframework.security.web.access.ExceptionTranslationFilter@4c5f1766, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7762741d]
+2022-04-20-21:21:28 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8006 is already in use
+2022-04-20-21:21:28 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-21:21:28 - HikariPool-1 - Shutdown initiated...
+2022-04-20-21:21:28 - HikariPool-1 - Shutdown completed.
+2022-04-20-21:21:28 - Stopping service [Tomcat]
+2022-04-20-21:21:28 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-20-21:21:28 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8006 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8006 or configure this application to listen on another port.
+
+2022-04-20-21:21:39 - Application shutdown requested.
+2022-04-20-21:21:39 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-21:21:39 - HikariPool-2 - Shutdown initiated...
+2022-04-20-21:21:39 - HikariPool-2 - Shutdown completed.
+2022-04-20-21:21:47 - Starting SprintBarber1Application using Java 17.0.2 on inlen8520015072 with PID 4524 (C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1\target\classes started by relabba in C:\Users\RELABBA\Downloads\SprintBarberApp2\SprintBarber1)
+2022-04-20-21:21:47 - No active profile set, falling back to default profiles: default
+2022-04-20-21:21:47 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20-21:21:47 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20-21:21:48 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20-21:21:48 - Finished Spring Data repository scanning in 56 ms. Found 8 JPA repository interfaces.
+2022-04-20-21:21:49 - Tomcat initialized with port(s): 8006 (http)
+2022-04-20-21:21:49 - Starting service [Tomcat]
+2022-04-20-21:21:49 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-04-20-21:21:49 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-04-20-21:21:49 - Initializing Spring embedded WebApplicationContext
+2022-04-20-21:21:49 - Root WebApplicationContext: initialization completed in 1347 ms
+2022-04-20-21:21:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20-21:21:49 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-04-20-21:21:49 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20-21:21:49 - HikariPool-1 - Starting...
+2022-04-20-21:21:49 - HikariPool-1 - Start completed.
+2022-04-20-21:21:49 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-04-20-21:21:50 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20-21:21:50 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20-21:21:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20-21:21:51 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-04-20-21:21:51 - LiveReload server is running on port 35729
+2022-04-20-21:21:51 - Will secure Ant [pattern='/admin/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@79747107, org.springframework.security.web.context.SecurityContextPersistenceFilter@3f917f58, org.springframework.security.web.header.HeaderWriterFilter@3d063d8, org.springframework.security.web.authentication.logout.LogoutFilter@198f040f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@55ef9c43, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1861a273, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@588856b6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3c1eccab, org.springframework.security.web.session.SessionManagementFilter@14c1a435, org.springframework.security.web.access.ExceptionTranslationFilter@5bd3bd35, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7d66be5c]
+2022-04-20-21:21:51 - Will secure Ant [pattern='/**'] with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5ba15054, org.springframework.security.web.context.SecurityContextPersistenceFilter@2540a255, org.springframework.security.web.header.HeaderWriterFilter@64a310dc, org.springframework.security.web.authentication.logout.LogoutFilter@4ffaab9, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3a2a7fc3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7faa92b1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3735868, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@379957de, org.springframework.security.web.session.SessionManagementFilter@2d615706, org.springframework.security.web.access.ExceptionTranslationFilter@681654d8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3bf1a521]
+2022-04-20-21:21:51 - Tomcat started on port(s): 8006 (http) with context path ''
+2022-04-20-21:21:51 - Context refreshed
+2022-04-20-21:21:51 - Found 1 custom documentation plugin(s)
+2022-04-20-21:21:51 - Scanning for api listing references
+2022-04-20-21:21:51 - Started SprintBarber1Application in 4.455 seconds (JVM running for 5.121)
+2022-04-20-21:22:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-20-21:22:29 - Initializing Servlet 'dispatcherServlet'
+2022-04-20-21:22:29 - Completed initialization in 1 ms
+2022-04-20-21:22:29 - The customer booked Successfully
